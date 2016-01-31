@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[elk river beadery.com]]></title>
         <description><![CDATA[elk river beadery.com]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/elk-river-beadery-com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 31 Jan 2016 05:29:18 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 31 Jan 2016 20:19:15 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/elk-river-beadery-com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>your   fave beaded jewlrey   soon to come</p>]]></description>
+            <link>https://thegrid.ai/elk-river-beadery-com/ed6abfa6-aa58-47c6-869d-73555ce93c35/index.html</link>
+            <guid isPermaLink="false">ed6abfa6-aa58-47c6-869d-73555ce93c35</guid>
+            <pubDate>Sun, 31 Jan 2016 20:19:15 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d53b44cc-dfb2-410c-9f60-21e9fddf157a.jpg">]]></description>
-            <link>undefinedd6ca289a-b812-44e9-818d-3a9b7a30ccc0/index.html</link>
+            <link>https://thegrid.ai/elk-river-beadery-com/d6ca289a-b812-44e9-818d-3a9b7a30ccc0/index.html</link>
             <guid isPermaLink="false">d6ca289a-b812-44e9-818d-3a9b7a30ccc0</guid>
             <pubDate>Sun, 31 Jan 2016 05:29:11 GMT</pubDate>
         </item>
