@@ -1,0 +1,28 @@
+name: elk river beadery.com
+favicon: null
+layout_spectrum: 0.8137724008411169
+typography_spectrum: 0.10931009496562183
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.4421581525821239
+  lightness: 0.5092511861585081
+  saturation: 0.5905385341029614
+  rhythmicContrast: 0.9039055272005498
+purpose: []
